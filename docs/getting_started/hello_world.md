@@ -22,7 +22,7 @@ Console.log('Hello, World!');
 Process.exit(0);
 ```
 
-<Badge type="tip" text="Don’t worry about the syntax for now -- we'll cover it in the next section." />
+<Badge type="tip" text="Don’t worry about the syntax for now — we’ll cover it in the next section." />
 
 ## Step 3: Run the Program
 
@@ -35,7 +35,7 @@ zsharp run main.zs
 You should see:
 `Hello, World!`
 
-🎉 That's it -- you've just written your first Z# program!
+🎉 That's it — you’ve just written your first Z# program!
 
 ---
 
