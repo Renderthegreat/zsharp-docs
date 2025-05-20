@@ -12,4 +12,4 @@ That's it! Now lets make a **Hello, World** program!
 
 # What's Next?
 
-- [Hello, World! program](/docs/getting_started/hello_world.md)
+- [Hello, World! program](/getting_started/hello_world.md)

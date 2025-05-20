@@ -66,10 +66,10 @@ You should see the installed version printed to the console.
 
 ## Step 4: Celebrate! 🎉
 
-Congratulations, you have successfully installed Z#! When you are ready, try our [Getting Started Guild](/docs/getting_started/setting_up_zap.md)!
+Congratulations, you have successfully installed Z#! When you are ready, try our [Getting Started Guild](/getting_started/setting_up_zap.md)!
 
 ---
 
 # What's Next?
 
-- [Getting Started Guild - Setting up ZAP](/docs/getting_started/setting_up_zap.md)
+- [Getting Started Guild - Setting up ZAP](/getting_started/setting_up_zap.md)
