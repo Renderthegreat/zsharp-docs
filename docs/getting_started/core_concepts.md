@@ -44,12 +44,12 @@ Types in Z# are declared by their properties:
 ```zsharp
 import 'Z#';
 
-type Gender
+type Gender =
     | 'male'
     | 'female'
 ; // This means male, or female
 
-type Person {
+type Person = {
     name: String,
     birthday: Date,
     gender: Gender,
