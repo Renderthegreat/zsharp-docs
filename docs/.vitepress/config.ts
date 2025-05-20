@@ -9,5 +9,6 @@ export default ({
 		logo: '/assets/svg/logo.svg',
 		nav: [],
 		sidebar: {}
-	}
+	},
+	ignoreDeadLinks: true
 });

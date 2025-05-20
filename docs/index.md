@@ -24,4 +24,4 @@ Modular by design. Minimal by nature. Made for power users and precision coding.
 ---
 
 Ready to try out Z#?
-[Read our installation guide](/install)!
+[Read our installation guide](/docs/install.md)!
