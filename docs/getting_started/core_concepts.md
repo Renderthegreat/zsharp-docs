@@ -4,13 +4,19 @@ Z# is a low-level, modular programming language built for precision, efficiency,
 
 ## The Fundamental Types
 
-Z# starts with only three primitive types:
+Z# starts with only 4 primitive types:
 
 ### `byte`
 
-- A raw unit of data that represents **4 bytes of memory** (or 32 0's and 1's).
+- A raw unit of data that represents **4 bytes of memory** (or 32 0’s and 1’s).
 - It’s the most fundamental type — everything else is built on top of it.
 - You can represent numbers, characters, and more using `byte` arrays.
+
+### `null`
+
+- Represents the **absence of a value** for a type.
+- Unlike `void`, `null` has property access. 
+- Used when a value doesn’t require a definition.
 
 ### `void`
 
@@ -53,7 +59,7 @@ type Person = {
     name: String,
     birthday: Date,
     gender: Gender,
-    parents?: Person[2] // 2 People, or null so that we don't need an infinite dataset
+    parents?: Person[2]
 };
 
 let bob: Person = {
@@ -75,3 +81,6 @@ let sally: Person = {
     parents: [ bob, lisa ]
 };
 ```
+
+## Classes
+
