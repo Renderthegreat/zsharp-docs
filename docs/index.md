@@ -9,7 +9,7 @@ Modular by design. Minimal by nature. Made for power users and precision coding.
 
 
 - ## 🧠 Minimal & Explicit
-    Z# starts with just `byte`, `void`, and `never` types. Everything else is added via modular features.
+    Z# starts with just `byte`, `null`, and `void` types. Everything else is added via modular features.
 - ## 🚀 High Performance
     Built with control in mind — customizable garbage collection, no bloat. You write what you mean.
 - ## 🏗️ Modular Language
