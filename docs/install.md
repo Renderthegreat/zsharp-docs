@@ -58,7 +58,7 @@ npm install --global @zsharp/core @zsharp/zap
 To check that Z# is installed correctly, run:
 
 ```sh
-zsharp --version
+zs --version
 zap --version
 ```
 

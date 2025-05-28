@@ -29,7 +29,7 @@ Process.exit(0);
 Run:
 
 ```sh
-zsharp run main.zs
+zs run main.zs
 ```
 
 You should see:
