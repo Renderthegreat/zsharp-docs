@@ -50,10 +50,10 @@ Types in Z# are declared by their properties:
 ```zsharp
 import 'Z#';
 
-type Gender =
-    | 'male'
-    | 'female'
-; // This means male, or female
+enum gender = {
+    male,
+    female
+};
 
 type Person = {
     name: String,
@@ -65,13 +65,13 @@ type Person = {
 let bob: Person = {
     name: 'Bob',
     birthday: new Date(2000, 'march', 11),
-    gender: Gender.Male
+    gender: Gender.male
 };
 
 let lisa: Person = {
     name: 'Lisa',
     birthday: new Date(2000, 'april', 5),
-    gender: Gender.Female
+    gender: Gender.female
 };
 
 let sally: Person = {
