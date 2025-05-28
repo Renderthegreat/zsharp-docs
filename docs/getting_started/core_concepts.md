@@ -77,7 +77,7 @@ let lisa: Person = {
 let sally: Person = {
     name: 'Sally',
     birthday: new Date(2025, 'may', 18),
-    gender: Gender.Female,
+    gender: Gender.female,
     parents: [ bob, lisa ]
 };
 ```
