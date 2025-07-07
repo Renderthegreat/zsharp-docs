@@ -8,7 +8,7 @@ Z# starts with only 4 primitive types:
 
 ### `byte`
 
-- A raw unit of data that represents **4 bytes of memory** (or 32 0’s and 1’s).
+- A raw unit of data that represents **4 bytes of memory** (or 32 0s and 1s).
 - It’s the most fundamental type — everything else is built on top of it.
 - You can represent numbers, characters, and more using `byte` arrays.
 
