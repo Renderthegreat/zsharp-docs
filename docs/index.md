@@ -15,7 +15,7 @@ Modular by design. Minimal by nature. Made for power users and precision coding.
 - ## 🏗️ Modular Language
     Extend the language with custom features, types, and syntax — all opt-in and strictly defined.
 - ## 🧩 Built for Integration
-    details: Designed to compile into any backend — C, WebAssembly, native binaries, and more.
+    Designed to compile into any backend — C, WebAssembly, native binaries, and more.
 - ## 📦 Lightweight Packages
     Use the `zap` crate manager to install, share, and build apps and libraries with minimal overhead.
 - ## 📚 Educational & Practical
