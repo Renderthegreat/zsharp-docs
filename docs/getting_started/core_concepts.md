@@ -33,7 +33,7 @@ Z# starts with only 4 primitive types:
 Functions in Z# are declared with an explicit return type and parameter list:
 
 ```zsharp
-import 'Z#';
+import 'z#';
 
 function greet(name?: String): String {
   return `Hello, ${name || 'World'}!`;
@@ -48,7 +48,7 @@ Console.log(greet()); // Hello, World!
 Types in Z# are declared by their properties:
 
 ```zsharp
-import 'Z#';
+import 'z#';
 
 enum gender = {
     male,
