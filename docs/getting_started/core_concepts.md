@@ -57,26 +57,26 @@ enum gender = {
 
 type Person = {
     name: String,
-    birthday: Date,
+    birth: Date,
     gender: Gender,
     parents?: Person[2]
 };
 
 let bob: Person = {
     name: 'Bob',
-    birthday: new Date(2000, 'march', 11),
+    birth: new Date(2000, 'march', 11),
     gender: Gender.male
 };
 
 let lisa: Person = {
     name: 'Lisa',
-    birthday: new Date(2000, 'april', 5),
+    birth: new Date(2000, 'april', 5),
     gender: Gender.female
 };
 
 let sally: Person = {
     name: 'Sally',
-    birthday: new Date(2025, 'may', 18),
+    birth: new Date(2025, 'may', 18),
     gender: Gender.female,
     parents: [ bob, lisa ]
 };
