@@ -50,7 +50,7 @@ Types in Z# are declared by their properties:
 ```zsharp
 import 'z#';
 
-enum gender = {
+enum Gender = {
     male,
     female
 };
