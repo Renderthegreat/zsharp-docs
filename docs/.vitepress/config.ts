@@ -15,11 +15,11 @@ export default defineConfig({
 
 		},
 		footer: {
-			copyright: 'Public Domain &opensource Z#',
+			copyright: 'Z# — Open Source • MIT License',
 		},
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/renderlabs-cloud/zsharp' },
-			{ icon: 'discord', link: 'https://discord.gg/gGcbaBjtBS' },
+			{ icon: 'discord', link: 'https://discord.gg/gGcbaBjtBS' }, // TODO: use redirect link
 		],
 		search: {
 			provider: 'local',	
