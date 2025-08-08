@@ -25,5 +25,11 @@ export default defineConfig({
 		},
 		
 	},
+	markdown: {
+		theme: {
+			dark: 'catppuccin-frappe',
+			light: 'catppuccin-macchiato'
+		}
+	},
 	ignoreDeadLinks: true
 });

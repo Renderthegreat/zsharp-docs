@@ -39,6 +39,6 @@ You should see:
 
 ---
 
-# What's Next!
+# What's Next?
 
 - Learn how functions and types work in [Core Concepts](/getting_started/core_concepts.md)
