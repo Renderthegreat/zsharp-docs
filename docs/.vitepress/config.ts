@@ -11,25 +11,30 @@ export default defineConfig({
 		logo: '/assets/svg/logo.svg',
 		siteTitle: 'Z# Language',
 		nav: [],
-		sidebar: {},
+		sidebar: {
+
+		},
 		footer: {
-			copyright: 'Public Domain',
-			message: 'Z# Language'
+			copyright: 'Public Domain &opensource Z#',
 		},
 		socialLinks: [
-			{ icon: 'github', link: 'https://github.com/zsharp/zsharp' },
+			{ icon: 'github', link: 'https://github.com/renderlabs-cloud/zsharp' },
 			{ icon: 'discord', link: 'https://discord.gg/gGcbaBjtBS' },
 		],
 		search: {
 			provider: 'local',	
 		},
-		
+		docFooter: {
+			prev: 'Previous',
+			next: 'Next'
+		},
 	},
 	markdown: {
 		theme: {
 			dark: 'catppuccin-frappe',
 			light: 'catppuccin-macchiato'
-		}
+		},
+		lineNumbers: true,
 	},
 	ignoreDeadLinks: true
 });
