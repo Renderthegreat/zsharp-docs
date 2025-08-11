@@ -19,7 +19,7 @@ export default defineConfig({
 		},
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/renderlabs-cloud/zsharp' },
-			{ icon: 'discord', link: 'https://discord.gg/gGcbaBjtBS' }, // TODO: use redirect link
+			{ icon: 'discord', link: 'https://zsharp.dev/discord/invite' },
 		],
 		search: {
 			provider: 'local',	
