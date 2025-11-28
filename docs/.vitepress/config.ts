@@ -18,7 +18,7 @@ export default defineConfig({
 			copyright: 'Z# — Open Source • MIT License',
 		},
 		socialLinks: [
-			{ icon: 'github', link: 'https://github.com/renderlabs-cloud/Z-Sharp' },
+			{ icon: 'github', link: 'https://github.com/renderlabs-cloud/z_sharp },
 			{ icon: 'discord', link: 'https://zsharp.dev/discord/invite' },
 		],
 		search: {
