@@ -1,5 +1,5 @@
 <Badge type="tip" text="Z# 1.0 is in development!" />
-<Badge type="error" text="This information is VERY outdated! Please wait while we make design decisions" />
+<Badge type="danger" text="This information is VERY outdated! Please wait while we make design decisions" />
 ---
 
 # Z# Programming Language
